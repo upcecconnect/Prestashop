@@ -1,1 +1,1 @@
-Модуль eCommerceConnect (UPC) для PrestaShop
+# Модуль eCommerceConnect (UPC) для PrestaShop v. 1.7.* - 8.1.*
